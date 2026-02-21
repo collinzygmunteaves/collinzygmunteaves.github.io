@@ -2,6 +2,7 @@
 title: '¿Cómo construir una Mente Invencible? El Método Somático-Estoico'
 description: 'Descubre cómo la regulación del sistema nervioso potencia la filosofía estoica.'
 pubDate: 'Feb 21 2026'
+heroImage: '/busto-estoico.png'
 ---
 
 Una mente invencible no es la que ignora el dolor, sino la que lo regula a través del cuerpo.
