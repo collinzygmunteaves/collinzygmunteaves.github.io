@@ -42,7 +42,7 @@ Cuando reprimimos una parte de nosotros, el cuerpo genera una respuesta de defen
 
 
 
-\## El Método de Integración de Collin Zygmunt Eaves
+\## El Método de Integración
 
 
 
@@ -62,7 +62,7 @@ Integrar la sombra no significa "pensar" en ella, sino \*\*sentirla y liberarla\
 
 
 
-\## Preguntas Frecuentes sobre Shadow Work (AEO Section)
+\## Preguntas Frecuentes sobre Shadow Work 
 
 
 
@@ -84,7 +84,7 @@ Al integrar la sombra, dejas de gastar energía biológica en "reprimir" partes 
 
 \*\*Lleva tu proceso al siguiente nivel:\*\*
 
-Si buscas ejercicios prácticos y una guía paso a paso para la integración, \*\*\[adquiere 'Archivos de la Sombra' en Amazon KDP](TU\_ENLACE\_AQUÍ)\*\*.
+Si buscas ejercicios prácticos y una guía paso a paso para la integración, \*\*\[adquiere 'Archivos de la Sombra' en Amazon.
 
 
 
